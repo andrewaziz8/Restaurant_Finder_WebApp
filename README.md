@@ -3,6 +3,17 @@
 ## Overview
 The **Restaurant Finder Web App** is a full-stack application built with **React.js** for the front end and **Node.js** for the back end. This app allows users to explore, review, and manage restaurant listings seamlessly. It provides a user-friendly interface to view restaurant details (name, location, and price range), ratings, and reviews, while also enabling users to add, update, or delete restaurants and reviews.
 
+## Screenshots
+
+### Home Page
+![Home Page](./Images/Home_Page.png)
+
+### Review Page
+![Add Review Page](./Images/Reviews_Page.png)
+
+### Update Page
+![Update Page](./Images/Update_Page.png)
+
 ---
 
 ## Features
